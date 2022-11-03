@@ -1,22 +1,27 @@
 {
   "test": [
     {
+      "id": 1,
       "label": "label1",
       "value": "value1"
     },
     {
+      "id": 2,
       "label": "label2",
       "value": "value2"
     },
     {
+      "id": 3,
       "label": "label3",
       "value": "value3"
     },
     {
+      "id": 4,
       "label": "label4",
       "value": "value4"
     },
     {
+      "id": 5,
       "label": "label5",
       "value": "value5"
     }
